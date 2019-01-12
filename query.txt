@@ -1,0 +1,1 @@
+INSERT INTO `query` (`person_id`, `name`, `person_hobbies`) VALUES ('1', 'nurhadi', 'Bird Watching,Martial Arts,Archry'), ('2', 'aldo', 'Hiking, Beekeping'), ('3', 'dodi', 'Book Restoration')
